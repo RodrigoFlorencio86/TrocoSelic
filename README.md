@@ -1,5 +1,5 @@
 # TrocoSelic
-Repositório com a nossa solução de token para a Hackathon do Tesouro Nacional 2023
+Repositório com a nossa solução de token para a Hackathon do Tesouro Nacional 2023. Vale ressaltar que nada descrito aqui possui qualquer autorização dos órgãos responsáveis para ser colocado em prática, sendo apenas um exercício para a hackathon.
 
 Troco Selic
 é um serviço, que permitirá que lojistas e prestadores de serviço deem troco através de frações de Tesouro Selic tokenizado, diretamente em uma carteira web3 atrelada ao CPF do cidadão consumidor, que poderá gerenciar esse saldo no app do Tesouro Direto.
